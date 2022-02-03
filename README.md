@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohan-comps
+- 👋 Hi, I’m Shubha Chakraborty
 - 👀 I’m interested in Deep Learning
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on any project of Deep Learning/Machine Learning
